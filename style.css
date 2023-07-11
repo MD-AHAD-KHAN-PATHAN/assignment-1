@@ -108,7 +108,7 @@ ul li a:hover {
 }
 
 .feature-discription h1 {
-    font-size: 26px;
+    font-size: 35px;
     margin-bottom: 20px;
 }
 
@@ -254,7 +254,7 @@ ul li a:hover {
 .product-list {
     display: flex;
     justify-content: center;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .product-catagory {
@@ -278,6 +278,12 @@ ul li a:hover {
     background-color: aqua;
     color: black;
     border: none;
+}
+
+.product-catagory .bton:hover {
+    background-color: white;
+    border: 1px solid aqua;
+    cursor: pointer;
 }
 
 /* Instagram Section */
