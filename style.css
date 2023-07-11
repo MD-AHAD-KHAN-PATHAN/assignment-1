@@ -62,8 +62,8 @@ ul li a:hover {
     background-color: aqua;
     padding: 15px 25px;
     font-size: 20px;
+    border: 2px solid aqua;
     border-radius: 6px;
-    border: none;
     overflow: hidden;
 }
 
@@ -99,8 +99,7 @@ ul li a:hover {
 /* Feature Section */
 
 .feature {
-    height: 100vh;
-    padding: 100px 140px;
+    padding: 100px 140px 0;
 }
 
 .feature-discription {
@@ -115,7 +114,7 @@ ul li a:hover {
 .box-item {
     display: flex;
     justify-content: center;
-    margin-top: 30px;
+    margin-top: 40px;
 }
 
 .box-item .img-1{
@@ -186,7 +185,7 @@ ul li a:hover {
 /* Advantage Section */
 
 .advantage {
-    padding: 20px 200px 100px;
+    padding: 100px 200px 100px;
 }
 .advantage-contant {
     display: flex;
@@ -258,7 +257,7 @@ ul li a:hover {
 }
 
 .product-catagory {
-    margin-right: 10px;
+    margin-right: 20px;
 }
 
 .product-catagory {
@@ -266,7 +265,7 @@ ul li a:hover {
 }
 
 .product-catagory img{
-    height: 200px;
+    height: 250px;
     border-radius: 5px;
     margin-bottom: 10px;
 }
@@ -277,7 +276,7 @@ ul li a:hover {
     border-radius: 25px;
     background-color: aqua;
     color: black;
-    border: none;
+    border: 1px solid aqua;
 }
 
 .product-catagory .bton:hover {
@@ -289,8 +288,7 @@ ul li a:hover {
 /* Instagram Section */
 
 .instagram {
-    height: 100vh;
-    padding: 100px 140px;
+    padding: 100px 140px 0;
 }
 
 .instagram-title {
@@ -299,11 +297,11 @@ ul li a:hover {
 
 .instagram-title h1 {
     font-size: 35px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .instagram-title p {
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 .instagram-image {
@@ -321,7 +319,7 @@ ul li a:hover {
 /* Deal Section */
 
 .deal {
-    padding: 0 130px 100px;
+    padding: 100px 130px;
 }
 
 .deal-bg {
