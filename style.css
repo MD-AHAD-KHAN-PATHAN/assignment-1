@@ -238,6 +238,47 @@ ul li a:hover {
     height: 300px;
 }
 
+/* Product List Section */
+
+.product {
+    padding: 100px 140px 0;
+}
+
+.product-title h1 {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.product-list {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.product-catagory {
+    margin-right: 10px;
+}
+
+.product-catagory {
+    text-align: center;
+}
+
+.product-catagory img{
+    height: 200px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.product-catagory .bton {
+    padding: 8px 10px;
+    margin-top: 10px;
+    border-radius: 25px;
+    background-color: aqua;
+    color: black;
+    border: none;
+}
+
 /* Instagram Section */
 
 .instagram {
@@ -306,6 +347,7 @@ ul li a:hover {
 /* Footer Section */
 
 .footer {
+    width: 100%;
     text-align: center;
     background-color: rgb(62, 132, 132);
     padding: 100px 140px;
